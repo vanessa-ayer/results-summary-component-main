@@ -109,13 +109,6 @@ body {
   }
 }
 
-.flex-group {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-}
-
 .result-summary {
   max-width: 46rem;
   display: grid;
@@ -186,6 +179,13 @@ body {
 
 .summary {
   padding: 2.5rem;
+}
+
+.flex-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
 }
 
 .summary-item {
