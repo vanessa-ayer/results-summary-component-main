@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-design](assets/images/final-design-order-blog-preview-card.png)
+![desktop-design](assets/images/final-design-order-results-summary-component.png)
 
 ### Links
 
