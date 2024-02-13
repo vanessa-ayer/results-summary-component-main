@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: 
-- Live Site URL: 
+- Live Site URL: https://vanessa-ayer.github.io/results-summary-component-main/
 
 ### Built with
 
